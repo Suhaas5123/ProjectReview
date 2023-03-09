@@ -1,0 +1,7 @@
+com\example\demo\modeldto\Detaildto.class
+com\example\demo\ReviewApplication.class
+com\example\demo\model\Detail.class
+com\example\demo\service\ApiServiceltl.class
+com\example\demo\repository\DetailRepo.class
+com\example\demo\service\ApiService.class
+com\example\demo\controller\ApiController.class
